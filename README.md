@@ -1,2 +1,2 @@
-# Sem-foro
+# Semáforo
 semáforo manual
